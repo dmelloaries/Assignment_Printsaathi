@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Settings from './component/Setting2'
+import Settings from './component/Settings'
 
 const App = () => {
   return (
